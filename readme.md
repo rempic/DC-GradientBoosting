@@ -1,4 +1,4 @@
-# Gradient Boosting Classifier(./datachallenge_GradientBoostingClassifier.ipynb)
+# "Gradient Boosting Classifier"(./datachallenge_GradientBoostingClassifier.ipynb)
 
 This is an application of Gradient boosting for multiclassification of an unbalanced data set
 
